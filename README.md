@@ -38,7 +38,7 @@
 
 ## 📫 連絡先
 
-- **GitHub**: [@KEIDOROa](https://github.com/your-username)
+- **GitHub**: [@KEIDOROa](https://github.com/KEIDOROa)
 - **Twitter**: [@777so_jp](https://x.com/777so_jp)
 
 🚀 これからも新しい技術を学びながら、面白いプロジェクトを作っていきます！  
